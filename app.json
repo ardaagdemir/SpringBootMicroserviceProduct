@@ -1,0 +1,10 @@
+{
+  "name":"iea-product",
+
+  "buildpacks":
+  [
+    {
+      "url":"heroku/gradle"
+    }
+  ]
+}
